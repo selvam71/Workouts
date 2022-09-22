@@ -1,0 +1,11 @@
+Madhu:
+ 1.Toggle using class and functional component
+
+
+
+
+Vignesh-1.Counter using state
+2.Counter using props.
+3.adding condition-if count>3 ->green elseif c>5 ->red &alert boxs 
+4.pass data from child to parent component
+parent->h1->child1(input)->child(button) 
